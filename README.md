@@ -1,10 +1,15 @@
+## ลง golang ในเครื่องจากลิ้งค์
+
+- https://go.dev/dl/ เลือก OS ให้ตรงกับเครื่อง
+- เปิด cmd แล้วพิมพ์ go version เพื่อเช็คว่าลง go แล้ว
+
 ## run project ด้วยคำสั่ง
 
 - go run main.go
 
 ## run test
 
-go test ./...
+- go test ./...
 
 ## มีตรงไหนใช้ AI ช่วยบ้าง
 
